@@ -21,7 +21,7 @@ repository               : "Bulu04bulu/Bulu04bulu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Lu Wang"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate majoring in data science and big Data technology at Southern University of Science and Technology"
